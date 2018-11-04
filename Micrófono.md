@@ -43,6 +43,7 @@ Nos lo podemos encontrar en formato “telefonista” o simplemente con un sopor
 
 #### Micrófono inalámbrico
 Un micrófono inalámbrico es un dispositivo que capta sonidos y los transmite por radiofrecuencias; pueden ser de solapa o de mano.
+
 ![Micrófono inalámbrico](https://master.com.mx/img/msound/MS-2MICRECH_3.jpg)
 
 
