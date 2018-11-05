@@ -11,7 +11,7 @@
 Es la **parte más delicada** de un micrófono.  El diafragma es una **membrana que recibe las vibraciones y está unido al sistema que transforma estas ondas en electricidad**.
 
 #### Dispositivo transductor
-El dispositivo transductor sensible de un micrófono **se llama "elemento" o "cápsula"**. Esta cápsula, puede estar **construida de diferentes maneras** y, dependiendo de ello, se pueden clasificar los micrófonos como **dinámicos**, **de condensador**, **de carbón** o **piezoeléctricos**.
+El dispositivo transductor sensible de un micrófono **se llama "elemento" o "cápsula"**. Esta cápsula, puede estar **construida de diferentes maneras** y, dependiendo de ello, se pueden clasificar los **micrófonos** como **dinámicos**, **de condensador**, **de carbón** o **piezoeléctricos**.
 
 #### Rejilla
 Protege el diafragma. **Evita los golpes de sonido, o los físicos** que sufra por alguna caída.
