@@ -1,17 +1,9 @@
 # LOS MICRÓFONOS.
->**Un micrófono** es un traductor electroacústico, es decir, dispositivos capaz de transformar la energía acústica que recibe en energía eléctrica.
->> Para hacer llegar el sonido al equipo informático, se necesita un micrófono. Hay diversidad de tipos de micrófonos, cada uno con unas características determinadas y diseñados para recoger de forma clara y nítida la toma de sonido. 
+>**Un micrófono** es un traductor electroacústico, es decir, **dispositivo capaz de transformar la energía acústica que recibe en energía eléctrica**.
+>> Para hacer llegar el sonido al equipo informático, se necesita un micrófono. Hay diversidad de tipos de micrófonos, cada uno con unas características determinadas y diseñados para recoger de **forma clara y nítida la toma de sonido.** 
 
 <img width="300" height=400 src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Microphone_Closet_-_In_Your_Ear_Studios.jpg/600px-Microphone_Closet_-_In_Your_Ear_Studios.jpg">
 
-
- A su vez este traductor puede considerarse dividido en dos:
- * **_Aústico-mecánico_** **(T.A.M.)**: está formado por una membrana, o diafragma, que al recibir una onda de presión se desplaza con una determinada velocidad, comunicando una fuerza a un elemento móvil, por
-ejemplo una bobina. En este transductor se encuentran los elementos acústicos que permiten
-dar diferentes formas de directividad a los micrófonos.
-
-* **_Mecánico-eléctrico_** **(T.M.E)**: consiste en un elemento electromagnético, electrostático, piezoeléctrico, etc, que
-convierte el desplazamiento del diafragma en una señal eléctrica
 
 ### **COMPONENTES Y ESTRUCTURA**
 
@@ -147,8 +139,7 @@ Así nació el conector TRRS,que se diferencia del minijack por tener un **canal
 
 
 
-
-                   # **FIN.**
+# FIN
 
 
 
