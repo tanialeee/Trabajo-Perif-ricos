@@ -1,5 +1,5 @@
 # LOS MICRÓFONOS.
->**Un micrófono** es un traductor electroacústico, es decir, **dispositivo capaz de transformar la energía acústica que recibe en energía eléctrica**.
+>**Un micrófono** es un transductor electroacústico, es decir, **dispositivo capaz de transformar la energía acústica que recibe en energía eléctrica**.
 >> Para hacer llegar el sonido al equipo informático, se necesita un micrófono. Hay diversidad de tipos de micrófonos, cada uno con unas características determinadas y diseñados para recoger de **forma clara y nítida la toma de sonido.** 
 
 <img width="300" height=400 src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Microphone_Closet_-_In_Your_Ear_Studios.jpg/600px-Microphone_Closet_-_In_Your_Ear_Studios.jpg">
@@ -8,16 +8,16 @@
 ### **COMPONENTES Y ESTRUCTURA**
 
 #### Diafragma
-Es la parte más delicada de un micrófono.  El diafragma es una membrana que recibe las vibraciones y está unido al sistema que transforma estas ondas en electricidad.
+Es la **parte más delicada** de un micrófono.  El diafragma es una **membrana que recibe las vibraciones y está unido al sistema que transforma estas ondas en electricidad**.
 
 #### Dispositivo transductor
-El dispositivo transductor sensible de un micrófono se llama "elemento" o "cápsula". Esta cápsula, puede estar construida de diferentes maneras y, dependiendo de ello, se pueden clasificar los micrófonos como **dinámicos**, **de condensador**, **de carbón** o **piezoeléctricos**.
+El dispositivo transductor sensible de un micrófono se llama "elemento" o "cápsula". Esta cápsula, puede estar **construida de diferentes maneras** y, dependiendo de ello, se pueden clasificar los micrófonos como **dinámicos**, **de condensador**, **de carbón** o **piezoeléctricos**.
 
 #### Rejilla
-Protege el diafragma. Evita los golpes de sonido, o los físicos que sufra por alguna caída.
+Protege el diafragma. **Evita los golpes de sonido, o los físicos** que sufra por alguna caída.
 
 #### Carcasa
-Es el recipiente donde se colocan los componentes del micrófono. Esta carcasa suele ser de metales poco pesados.
+Es el recipiente donde se colocan los **componentes del micrófono**. Esta carcasa suele ser de metales poco pesados.
 
 
 
