@@ -28,7 +28,7 @@ Es un dispositivo de **entrada de audio**. Se pueden conectar a la computadora p
 
 <img width="300" height=400 src="https://images-eu.ssl-images-amazon.com/images/I/41oIujQSe4L._AC_US218_.jpg">
 
-### 2.Micrófono multimedia
+#### 2.Micrófono multimedia
 Nos lo podemos encontrar en formato **“telefonista”** o simplemente con un **soporte o pie de mesa**. Nos pueden venir muy bien para conectarlos directamente a la tarjeta del ordenador **(conector rosa)** y hacer alguna grabación.
 
   <img width="300" height=400 src="https://img.pccomponentes.com/articles/9/90556/eminent-ewent-ew3550-microfono-multimedia-negro.jpg">
