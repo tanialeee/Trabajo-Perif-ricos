@@ -7,16 +7,16 @@
 
 ### **COMPONENTES Y ESTRUCTURA**
 
-#### Diafragma
+#### 1.Diafragma
 Es la **parte más delicada** de un micrófono.  El diafragma es una **membrana que recibe las vibraciones y está unido al sistema que transforma estas ondas en electricidad**.
 
-#### Dispositivo transductor
+#### 2.Dispositivo transductor
 El dispositivo transductor sensible de un micrófono **se llama "elemento" o "cápsula"**. Esta cápsula, puede estar **construida de diferentes maneras** y, dependiendo de ello, se pueden clasificar los **micrófonos** como **dinámicos**, **de condensador**, **de carbón** o **piezoeléctricos**.
 
-#### Rejilla
+#### 3.Rejilla
 Protege el diafragma. **Evita los golpes de sonido, o los físicos** que sufra por alguna caída.
 
-#### Carcasa
+#### 4.Carcasa
 Es el recipiente donde se colocan los **componentes del micrófono**. Esta carcasa suele ser de metales poco pesados.
 
 
@@ -28,40 +28,40 @@ Es un dispositivo de **entrada de audio**. Se pueden conectar a la computadora p
 
 <img width="300" height=400 src="https://images-eu.ssl-images-amazon.com/images/I/41oIujQSe4L._AC_US218_.jpg">
 
-### Micrófono multimedia
+### * Micrófono multimedia
 Nos lo podemos encontrar en formato **“telefonista”** o simplemente con un **soporte o pie de mesa**. Nos pueden venir muy bien para conectarlos directamente a la tarjeta del ordenador **(conector rosa)** y hacer alguna grabación.
 
   <img width="300" height=400 src="https://img.pccomponentes.com/articles/9/90556/eminent-ewent-ew3550-microfono-multimedia-negro.jpg">
 
-#### Micrófono inalámbrico
+#### * Micrófono inalámbrico
 Un micrófono inalámbrico es un dispositivo que **capta sonidos** y los **transmite por radiofrecuencias**; pueden ser de **solapa** o de **mano**.
 
 <img width="300" height=400 src="https://master.com.mx/img/msound/MS-2MICRECH_3.jpg">
 
 
-#### Micrófono de condensador
+#### * Micrófono de condensador
 Estos micrófonos tienden a tener una **alta sensibilidad** a la presión del sonido y además tienen una **respuesta de frecuencias bastante alta.**
 
 
 <img width="300" height=400 src="https://www.woodbrass.com/images/SQUARE400/woodbrass/AT+4050+SM+AUDIO+TECHNICA+MICRO+STUDIO.JPG">
 
-#### Micrófono Electret 
+#### * Micrófono Electret 
 Es una variante del micrófono de **condensador** que utiliza un **electrodo de lamina de plástico** que al estar polarizado **no necesita alimentación.**
 
 <img width="300" height=400 src="https://www.soundcreation.ro/admin/uploads/images/cms_products/module_20587/38163.jpg">
 
-#### Micrófono de cinta
+#### * Micrófono de cinta
 
 Es un tipo de micrófono **electrodinámico**, capta tanto el sonido que reciben por su **parte frontal**, como el que recibe por su parte **posterior**; por lo que **son bidireccionales**.
 
 <img width="300" height=400 src="https://sc02.alicdn.com/kf/HTB1dp9HJVXXXXcwXXXXq6xXFXXXr/AEA-R44-Studio-Ribbon-Microphone.jpg">
 
-#### Micrófono de fibra óptica
+#### * Micrófono de fibra óptica
 Este tipo de micrófono **capta** un campo de sonido desde una **conversación normal hasta un murmullo suave o un movimiento de papeles** con una exactitud de sonido excelente. 
 
 <img width="300" height=400 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Optimic1140_fiber_optical_microphone_for_wiki.jpg/800px-Optimic1140_fiber_optical_microphone_for_wiki.jpg">
 
-#### Micrófono láser
+#### * Micrófono láser
 Un micrófono láser es un aparato comúnmente utilizado en **espionaje** que usa un rayo láser para **detectar vibraciones sonoras de un objeto distante**.
 
 <img width="300" height=400 src="https://www.tacticalsecurity.net/admin/media/filter/large/img/TS9773-microfono-laser-2015-foto-8847.jpg">
