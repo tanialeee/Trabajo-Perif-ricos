@@ -106,6 +106,7 @@ El patrón polar de un micrófono es la calidad con la que el micrófono "escuch
 
 
 * **CARDIOIDE**: Un micrófono cardioide tiene la máxima sensibilidad en su parte frontal y la mínima en la trasera. Esto le ofrece un total aislamiento contra el sonido de ambiente no deseado.
+
   <img width="300" height=400 src="https://d3ctd91c7nw0ql.cloudfront.net/damfiles/default/educational/microphone-basics/microphone_technology_polar_patterns-teaser-shure_eu_2016.png-d6affd1c271fe98e740fc31a8943c3f1.png">
 
 
