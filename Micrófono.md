@@ -34,7 +34,7 @@ Es el recipiente donde se colocan los componentes del micrófono. Esta carcasa s
 #### Micrófono del PC.
 Es un dispositivo de entrada de audio. Se pueden conectar a la computadora para grabar sonido o para comunicarse por internet con otras personas. Muchos equipos vienen con micrófonos incorporados dentro de la pantalla o monitor, especialmente los computadores portátiles.
 
-<img width="350" height=400 src="https://static.nix.ru/images/Genius-Mic-01C-86402254.jpg?good_id=8640&width=500&height=500&view_id=2254">
+<img width="350" height=400 src="https://images-eu.ssl-images-amazon.com/images/I/41oIujQSe4L._AC_US218_.jpg">
 
 ### Micrófono multimedia
 Nos lo podemos encontrar en formato “telefonista” o simplemente con un soporte o pie de mesa. Nos pueden venir muy bien para conectarlos directamente a la tarjeta del ordenador (conector rosa) y hacer alguna grabación.
