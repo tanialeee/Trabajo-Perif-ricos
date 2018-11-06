@@ -30,7 +30,7 @@ El conector **minijack**, se encuentra entre los 5 conectores estándar más uti
 
 El **primer uso** que se le dió a este tipo de conectores fue para **interconectar las centrales telefónicas de la época.**
 
-<img width="300" height="400" src="https://tecnovortex.com/wp-content/uploads/2011/12/chicas-del-cable.jpg">
+<img width="450" height="400" src="https://tecnovortex.com/wp-content/uploads/2011/12/chicas-del-cable.jpg">
 
 El conector de la época era el **minijack de 1/4 de pulgada**, el mismo que actualmente podemos ver en auriculares profesionales,guitarras...
 
