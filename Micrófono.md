@@ -24,7 +24,7 @@ Es el recipiente donde se colocan los **componentes del micrófono**. Esta carca
 
 ### **CONECTORES**
 
-La conexión del micrófono y de los auriculares al equipo se realiza a través de los conectores **minijack** situados en el extremo del cable. Es frecuente que la carcasa que envuelve al conector sea del mismo color que la conexión de la tarjeta de sonido. Con los PC de hoy en día también se puede conectar por USB. 
+La conexión del micrófono y de los auriculares al equipo se realiza a través de los conectores **minijack** situados en el extremo del cable. Es frecuente que la carcasa que envuelve al conector sea del mismo color que la conexión de la tarjeta de sonido. Con los PC de hoy en día también se pueden conectar por USB. 
 
 El conector **minijack**, se encuentra entre los 5 conectores estándar más utilizados del mundo.
 
