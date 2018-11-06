@@ -20,6 +20,9 @@ Protege el diafragma. **Evita los golpes de sonido, o los físicos** que sufra p
 Es el recipiente donde se colocan los **componentes del micrófono**. Esta carcasa suele ser de metales poco pesados.
 
 
+<img width="300" height="400" src="https://www.google.es/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiF2-n86L_eAhVBdhoKHRz7DiYQjRx6BAgBEAU&url=https%3A%2F%2Fradioslibres.net%2Fcapitulo-3-el-microfono-es-un-oido-artificial%2F&psig=AOvVaw06rIxrsmmNUtHma5xTkt7X&ust=1541595501611433">
+
+
 
 #### **TIPOS DE MICRÓFONOS** 
 
