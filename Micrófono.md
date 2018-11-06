@@ -8,7 +8,7 @@
 ### **COMPONENTES Y ESTRUCTURA**
 
 #### 1.Diafragma
-Es la **parte más delicada** de un micrófono.  El diafragma es una **membrana que recibe las vibraciones y está unido al sistema que transforma estas ondas en electricidad**.
+  El diafragma es una **membrana que recibe las vibraciones y está unido al sistema que transforma estas ondas en electricidad**.Es la **parte más delicada** de un micrófono.
 
 #### 2.Dispositivo transductor
 El dispositivo transductor **se llama "elemento" o "cápsula"**. Esta cápsula, puede estar **construida de diferentes maneras** y, dependiendo de ello, se pueden clasificar los **micrófonos** como **dinámicos**, **de condensador**, **de carbón** o **piezoeléctricos**.
