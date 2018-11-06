@@ -24,7 +24,7 @@ Es el recipiente donde se colocan los **componentes del micrófono**. Esta carca
 #### **TIPOS DE MICRÓFONOS** 
 
 #### 1.Micrófono del PC.
-Es un dispositivo de **entrada de audio**. Se pueden conectar a la computadora para **grabar sonido** o para comunicarse por internet con otras personas. Muchos equipos vienen con micrófonos incorporados dentro de la pantalla o monitor, especialmente los computadores portátiles.
+Es un dispositivo de **entrada de audio**. Se pueden conectar a la computadora para **grabar sonido** o para comunicarse por internet con otras personas. Muchos equipos vienen con micrófonos incorporados.
 
 <img width="300" height=400 src="https://images-eu.ssl-images-amazon.com/images/I/41oIujQSe4L._AC_US218_.jpg">
 
