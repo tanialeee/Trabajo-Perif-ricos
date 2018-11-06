@@ -83,7 +83,7 @@ Son adaptadores para enganchar el micro al pie. Utilizan un sistema de rosca par
 
  <img width="300" height=400 src="https://images.musicstore.de/images/1600/sennheiser-mzw-41-pantalla-antiviento-para-mkh-20-mkh-50_1_PAH0009014-000.jpg">
 
- **El antipop** nos ayudará a reducir la fuerza de los ruidos molestos que se producen al pronunciar consonantes bilabiales como la “p” o la “b” que producen un sonoro golpe de aire.
+ **El antipop** nos ayudará a **reducir la fuerza de los ruidos molestos que se producen al pronunciar consonantes bilabiales** como la “p” o la “b” que producen un sonoro golpe de aire.
 
  <img width="300" height=400 src="https://images-na.ssl-images-amazon.com/images/I/71rxTeTrxcL._SX466_.jpg">
 
