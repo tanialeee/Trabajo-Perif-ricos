@@ -22,6 +22,29 @@ Es el recipiente donde se colocan los **componentes del micrófono**. Esta carca
 
 <img width="300" height="400" src="ola.jpg">
 
+### **CONECTORES**
+
+La conexión del micrófono y de los auriculares al equipo se realiza a través de los conectores **minijack** situados en el extremo del cable. Es frecuente que la carcasa que envuelve al conector sea del mismo color que la conexión de la tarjeta de sonido.  Los PC de hoy en día tienen unas conexiones llamadas USB, através de los que tambien se pueden conectar los micrófonos. 
+
+El conector TRS, también llamado minijack, se encuentra entre los 5 conectores estándar más utilizados del mundo.
+
+El primer uso que se le dió a este tipo de conectores fue para interconectar las centrales telefónicas de la época.
+
+![](https://tecnovortex.com/wp-content/uploads/2011/12/chicas-del-cable.jpg)
+
+El conector de la época era el minijack de 1/4 de pulgada, el mismo que actualmente podemos ver en auriculares profesionales,guitarras...
+
+![](https://tecnovortex.com/wp-content/uploads/2011/12/trs-sobre-piano.jpg)
+
+
+El minijack fue evolucionando y consiguieron achicar llevándolo a aproximadamente 3,5mm, que es el más utilizado hoy en día.
+
+Con la llegada de las mejoras de la grabación y reproducción musical le agregaron 2 canales a través del conector, estos conectores se llaman **jack stereo**.
+Más tarde con el uso de los teléfonos, los ingenieros se vieron obligados a meter un tercer canal al conector.
+Así nació el conector TRRS,que se diferencia del minijack por tener un canal extra.
+
+![](https://tecnovortex.com/wp-content/uploads/2017/05/ttrrs-vs-trs-vs-ts.png)
+
 
 #### **TIPOS DE MICRÓFONOS** 
 
